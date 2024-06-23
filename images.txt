@@ -9,3 +9,4 @@ busybox:1.28
 busybox:latest
 mysql:8.0
 registry:2
+httpd:2
